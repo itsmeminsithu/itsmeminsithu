@@ -1,16 +1,12 @@
-## Hi there 👋
+## 👨‍💻 About Me
 
-<!--
-**itsmeminsithu/itsmeminsithu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **full-stack web & software developer** from Myanmar with 8+ years of hands-on experience building websites, web apps, and digital systems for businesses, NGOs, and content platforms. I work independently, deliver on time, and bring both technical depth and creative problem-solving to every project.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently working remotely as a **Web & Software Developer at Youth Innolab Myanmar** while taking on freelance projects across Southeast Asia.
+```yaml
+name       : Min Sithu
+role       : Freelance Web & Software Developer
+location   : Bangkok, Thailand 🇹🇭
+email      : alex@minsithu.org
+available  : Open to freelance & remote opportunities
+languages  : English (Fluent) · Myanmar (Native)
