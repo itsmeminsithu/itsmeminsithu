@@ -1,12 +1,20 @@
-## 👨‍💻 About Me
+<div align="center">
 
-I'm a **full-stack web & software developer** from Myanmar with 8+ years of hands-on experience building websites, web apps, and digital systems for businesses, NGOs, and content platforms. I work independently, deliver on time, and bring both technical depth and creative problem-solving to every project.
+# Min Sithu
+### Full-Stack Web & Software Developer · Bangkok, Thailand 🇹🇭
 
-Currently working remotely as a **Web & Software Developer at Youth Innolab Myanmar** while taking on freelance projects across Southeast Asia.
-```yaml
-name       : Min Sithu
-role       : Freelance Web & Software Developer
-location   : Bangkok, Thailand 🇹🇭
-email      : alex@minsithu.org
-available  : Open to freelance & remote opportunities
-languages  : English (Fluent) · Myanmar (Native)
+*8+ years building websites, apps & digital systems across Southeast Asia*
+
+[![Portfolio](https://img.shields.io/badge/🌐_minsithu.org-0f172a?style=for-the-badge)](https://minsithu.org)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/itsmeminsithu)
+[![Email](https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alex@minsithu.org)
+
+---
+
+`HTML` `CSS` `JavaScript` `PHP` `React` `Python` `Java` `C#` `.NET` `Flutter` `Kotlin` `WordPress` `Elementor` `MySQL` `Linux` `AWS` `Git` `GitHub` `cPanel` `FTP` `Solidity` `Web3` `DApp` `SEO` `Google Analytics` `Google Ads` `Meta Ads` `R` `Data Science` `Adobe Photoshop` `Illustrator`
+
+---
+
+> *"Building digital solutions that make a difference — one line of code at a time."*
+
+</div>
