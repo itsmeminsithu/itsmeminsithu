@@ -1,6 +1,6 @@
 <div align="center">
 
-# Min Sithu
+# Min SiThu
 ### Full-Stack Web & Software Developer · Bangkok, Thailand 🇹🇭
 
 *8+ years building websites, apps & digital systems across Southeast Asia*
