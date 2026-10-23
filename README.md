@@ -34,10 +34,6 @@ I build practical web projects — from privacy-focused tools to content platfor
 - [Slip](https://github.com/itsmeminsithu/Slip) — Offline money manager that reads your receipts: scan a slip and AI pulls out the amount, merchant, date, and category. Runs in the browser, no server.
 - [MM-Rates](https://github.com/itsmeminsithu/MM-Rates) — Myanmar exchange-rate app: one API, one interface, three delivery targets (web, Android, iOS).
 - [burmese-handwriting](https://github.com/itsmeminsithu/burmese-handwriting) — Privacy-focused Burmese handwriting trainer and research tool.
-- [EVFM](https://github.com/itsmeminsithu/EVFM) — Easy Visa For Myanmar: worldwide visa and travel support (WordPress).
-- [Passport-MRZ-Reader](https://github.com/itsmeminsithu/Passport-MRZ-Reader) — Browser-based passport & ID MRZ reader with OCR (Tesseract.js), fully client-side.
-- [MM-Music](https://github.com/itsmeminsithu/MM-Music) — Modern, free music player app inspired by Spotify and Apple Music UI patterns.
-- [MM-FBDownloader](https://github.com/itsmeminsithu/MM-FBDownloader) — Fast, clean Facebook video downloader web app in Myanmar flag colors.
 
 ## 📫 Connect With Me
 
