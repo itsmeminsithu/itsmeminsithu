@@ -1,46 +1,45 @@
-# Hi there, I'm Min SiThu 👋
+# Min SiThu
 
-**Freelance Developer** · Bangkok, Thailand 🇹🇭
+**Senior Software Engineer — Full-stack**
+Bangkok, Thailand
 
-I build practical web projects — from privacy-focused tools to content platforms. I build and run [minsithu.org](https://minsithu.org) and [guide4you.net](https://guide4you.net), and I also run a visa-service business helping people travel worldwide.
+I build and ship full-stack systems: Django web apps, Streamlit dashboards, static and PWA front-ends, WordPress themes, and Android / iOS shells. I run [minsithu.org](https://minsithu.org) and [guide4you.net](https://guide4you.net), and a visa-service business for Myanmar travellers.
 
----
+## Stack
 
-## 💻 Tech Stack
+**Languages:** Python, TypeScript, JavaScript, PHP, Dart, Swift, Kotlin, HTML, CSS
+**Frameworks / platforms:** Django, React, Vite, Flutter, Streamlit, WordPress
+**Delivery:** GitHub Actions, GitHub Pages, GitHub Codespaces
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+## Featured projects
 
-## 📊 GitHub Stats
+| Project | What it is | Live |
+|---|---|---|
+| [MM POS Desk](https://github.com/itsmeminsithu/MM-POS-Desk-Inventory-Management) | Django / SQLite POS and inventory: business workspaces, warehouses, stock movements, sales, receipts and returns | [Codespaces](https://codespaces.new/itsmeminsithu/MM-POS-Desk-Inventory-Management) |
+| [MM Learning Management](https://github.com/itsmeminsithu/MM-Learning-Management) | Django learning platform: courses, quizzes, certificates, instructor studio, receipt-based payments | [Codespaces](https://codespaces.new/itsmeminsithu/MM-Learning-Management) |
+| [NayYet](https://github.com/itsmeminsithu/nayyet) | Bilingual Myanmar calendar for web, Android and iOS: Gregorian / Myanmar dates, lunar phases, sabbath days, 12 monthly themes | [Live](https://itsmeminsithu.github.io/nayyet/) |
+| [MU-Send](https://github.com/itsmeminsithu/MU-Send) | Phone-to-phone messenger with no account and no server: pair by QR, chat and share files directly over WebRTC | [Live](https://itsmeminsithu.github.io/MU-Send/) |
+| [Slip](https://github.com/itsmeminsithu/Slip) | Offline money manager that reads receipts in the browser: amount, merchant, date and category, accounts, transfers and charts | [Live](https://itsmeminsithu.github.io/Slip/) |
+| [Passport-MRZ-Reader](https://github.com/itsmeminsithu/Passport-MRZ-Reader) | Passport and ID MRZ reader that runs locally in the browser | [Live](https://itsmeminsithu.github.io/Passport-MRZ-Reader/) |
+| [Burmese-Content-Writer](https://github.com/itsmeminsithu/Burmese-Content-Writer) | Burmese content drafting tool: categories, format, length and tone controls, drafts and local storage | [Live](https://itsmeminsithu.github.io/Burmese-Content-Writer/) |
+| [CMS-Pro](https://github.com/itsmeminsithu/CMS-Pro) | Visa CMS admin panel: applications, service views, Excel backup / PDF manifest export and restore | [Live](https://itsmeminsithu.github.io/CMS-Pro/) |
 
-![Min SiThu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsmeminsithu&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itsmeminsithu&layout=compact&theme=radical)
+## Other projects
 
-## ⭐ Featured Projects
+- [ip-tracker](https://github.com/itsmeminsithu/ip-tracker) — Streamlit dashboard for IPv4, IPv6 and MAC addresses, with public IP detection and a 3D globe. Codespaces.
+- [NetCheck](https://github.com/itsmeminsithu/NetCheck) — Streamlit network troubleshooting dashboard: ping, DNS, TCP port checks, baselines and CSV export. Codespaces.
+- [burmese-handwriting](https://github.com/itsmeminsithu/burmese-handwriting) — Burmese handwriting trainer: draw on canvas, demo scoring, local progress, JSON export. Codespaces.
+- [MM-Rates](https://github.com/itsmeminsithu/MM-Rates) — Myanmar exchange-rate app: one API, one interface, web, Android and iOS.
+- [EVFM](https://github.com/itsmeminsithu/EVFM) and [MIn-SiThu-Magazine](https://github.com/itsmeminsithu/MIn-SiThu-Magazine) — WordPress themes.
+- [valentine](https://github.com/itsmeminsithu/valentine) — Single-page interactive Valentine site. [Live](https://itsmeminsithu.github.io/valentine/)
 
-- [MU-Send](https://github.com/itsmeminsithu/MU-Send) — Phone-to-phone messenger with no account and no server. Pair by QR, chat and share files directly over WebRTC. Web, Android, iOS & Flutter.
-- [Slip](https://github.com/itsmeminsithu/Slip) — Offline money manager that reads your receipts: scan a slip and AI pulls out the amount, merchant, date, and category. Runs in the browser, no server.
-- [MM-Rates](https://github.com/itsmeminsithu/MM-Rates) — Myanmar exchange-rate app: one API, one interface, three delivery targets (web, Android, iOS).
-- [burmese-handwriting](https://github.com/itsmeminsithu/burmese-handwriting) — Privacy-focused Burmese handwriting trainer and research tool.
+## GitHub stats
 
-## 📫 Connect With Me
+![Min SiThu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsmeminsithu&show_icons=true&theme=github_dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itsmeminsithu&layout=compact&theme=github_dark)
 
-[![Website](https://img.shields.io/badge/🌐_minsithu.org-0f172a?style=for-the-badge)](https://minsithu.org)
-[![Guide4You](https://img.shields.io/badge/🧭_guide4you.net-0f172a?style=for-the-badge)](https://guide4you.net)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)]([https://www.facebook.com/minsithuevfm](https://www.facebook.com/minsithuevfm))
+## Connect
 
----
-
-*Freelance developer based in Bangkok, Thailand — building the web, one project at a time.*
+- Website: [minsithu.org](https://minsithu.org)
+- Guide4You: [guide4you.net](https://guide4you.net)
+- Facebook: [facebook.com/minsithuevfm](https://www.facebook.com/minsithuevfm)
