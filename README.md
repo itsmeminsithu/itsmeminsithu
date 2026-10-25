@@ -3,7 +3,7 @@
 **Senior Software Engineer — Full-stack**
 Bangkok, Thailand
 
-I build and ship full-stack systems: Django web apps, Streamlit dashboards, static and PWA front-ends, WordPress themes, and Android / iOS shells. I run [minsithu.org](https://minsithu.org) and [guide4you.net](https://guide4you.net), and a visa-service business for Myanmar travellers.
+I build and ship full-stack systems: Django web apps, Streamlit dashboards, static and PWA front-ends, WordPress themes, and Android / iOS shells. I run [minsithu.org](https://minsithu.org) and [guide4you.net](https://guide4you.net).
 
 ## Stack
 
