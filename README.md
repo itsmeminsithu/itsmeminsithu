@@ -20,7 +20,6 @@ I build and ship full-stack systems: Django web apps, Streamlit dashboards, stat
 | [NayYet](https://github.com/itsmeminsithu/nayyet) | Bilingual Myanmar calendar for web, Android and iOS: Gregorian / Myanmar dates, lunar phases, sabbath days, 12 monthly themes | [Live](https://itsmeminsithu.github.io/nayyet/) |
 | [MU-Send](https://github.com/itsmeminsithu/MU-Send) | Phone-to-phone messenger with no account and no server: pair by QR, chat and share files directly over WebRTC | [Live](https://itsmeminsithu.github.io/MU-Send/) |
 | [Slip](https://github.com/itsmeminsithu/Slip) | Offline money manager that reads receipts in the browser: amount, merchant, date and category, accounts, transfers and charts | [Live](https://itsmeminsithu.github.io/Slip/) |
-| [Passport-MRZ-Reader](https://github.com/itsmeminsithu/Passport-MRZ-Reader) | Passport and ID MRZ reader that runs locally in the browser | [Live](https://itsmeminsithu.github.io/Passport-MRZ-Reader/) |
 | [Burmese-Content-Writer](https://github.com/itsmeminsithu/Burmese-Content-Writer) | Burmese content drafting tool: categories, format, length and tone controls, drafts and local storage | [Live](https://itsmeminsithu.github.io/Burmese-Content-Writer/) |
 | [CMS-Pro](https://github.com/itsmeminsithu/CMS-Pro) | Visa CMS admin panel: applications, service views, Excel backup / PDF manifest export and restore | [Live](https://itsmeminsithu.github.io/CMS-Pro/) |
 
