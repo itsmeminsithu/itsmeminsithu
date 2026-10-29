@@ -2,20 +2,11 @@
 
 **Senior Software Engineer — Full-stack · Bangkok, Thailand**
 
-I build and ship full-stack products end to end — from backend and data model to the interface people actually use. My work spans Django web platforms, mobile apps, and browser tools, with a focus on clean, practical software that works offline where it matters.
+I'm Min SiThu. I build software end to end: backend, data model, and the screens people use. Most of my work falls into four groups — Django web apps, Android and iOS apps, tools that run in the browser and work offline, and WordPress themes and sites.
 
-I run [minsithu.org](https://minsithu.org) and [guide4you.net](https://guide4you.net), where I publish tech writing alongside the projects below. My portfolio is at [minsithu.org/portfolio](https://minsithu.org/portfolio/).
+I also write about tech. I run [minsithu.org](https://minsithu.org) and [guide4you.net](https://guide4you.net), and my portfolio is at [minsithu.org/portfolio](https://minsithu.org/portfolio/).
 
----
-
-## What I build
-
-- **Web platforms** — Django applications with real workflows: inventory and sales, courses and certificates, admin dashboards
-- **Mobile apps** — Android and iOS apps, including a bilingual Myanmar calendar and a Myanmar keyboard
-- **Browser tools** — Offline-first tools that run entirely in the browser: messaging, finance, and content drafting
-- **WordPress** — Custom themes and publishing sites
-
-## Selected work
+## Projects I spend the most time on
 
 | Project | What it does | Try it |
 | --- | --- | --- |
@@ -27,7 +18,7 @@ I run [minsithu.org](https://minsithu.org) and [guide4you.net](https://guide4you
 | [MU-Send](https://github.com/itsmeminsithu/MU-Send) | Phone-to-phone messenger with no account and no server: pair by QR, chat and share files directly over WebRTC | [Live](https://itsmeminsithu.github.io/MU-Send/) |
 | [Slip](https://github.com/itsmeminsithu/Slip) | Offline money manager that reads receipts in the browser: amount, merchant, date and category, accounts, transfers and charts | [Live](https://itsmeminsithu.github.io/Slip/) |
 
-## More projects
+## Other repos
 
 - [ip-tracker](https://github.com/itsmeminsithu/ip-tracker) — Streamlit dashboard for IPv4, IPv6 and MAC addresses, with public IP detection and a 3D globe
 - [NetCheck](https://github.com/itsmeminsithu/NetCheck) — Streamlit network troubleshooting dashboard: ping, DNS, TCP port checks, baselines and CSV export
@@ -38,7 +29,7 @@ I run [minsithu.org](https://minsithu.org) and [guide4you.net](https://guide4you
 - [EVFM](https://github.com/itsmeminsithu/EVFM) and [MIn-SiThu-Magazine](https://github.com/itsmeminsithu/MIn-SiThu-Magazine) — WordPress themes
 - [valentine](https://github.com/itsmeminsithu/valentine) — Single-page interactive Valentine site ([Live](https://itsmeminsithu.github.io/valentine/))
 
-## Tech stack
+## Tools I use
 
 **Languages:** Python · TypeScript · JavaScript · PHP · Dart · Swift · Kotlin · HTML · CSS
 **Frameworks & platforms:** Django · React · Next.js · Vite · Flutter · Streamlit · WordPress
@@ -49,7 +40,7 @@ I run [minsithu.org](https://minsithu.org) and [guide4you.net](https://guide4you
 ![Min SiThu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsmeminsithu&show_icons=true&theme=github_dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itsmeminsithu&layout=compact&theme=github_dark)
 
-## Connect
+## Contact
 
 - Portfolio: [minsithu.org/portfolio](https://minsithu.org/portfolio/)
 - Website: [minsithu.org](https://minsithu.org)
