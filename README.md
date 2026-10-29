@@ -35,11 +35,6 @@ I also write about tech. I run [minsithu.org](https://minsithu.org) and [guide4y
 **Frameworks & platforms:** Django · React · Next.js · Vite · Flutter · Streamlit · WordPress
 **Delivery:** GitHub Actions · GitHub Pages · GitHub Codespaces · Docker
 
-## GitHub stats
-
-![Min SiThu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsmeminsithu&show_icons=true&theme=github_dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itsmeminsithu&layout=compact&theme=github_dark)
-
 ## Contact
 
 - Portfolio: [minsithu.org/portfolio](https://minsithu.org/portfolio/)
